@@ -396,7 +396,7 @@ img{
 
 /*==================== ABOUT ====================*/
 .about__img{
-    width: 400px;
+    width: 450px;
     border-radius: .5rem;
     justify-self: center;
     align-self: center;
@@ -1097,7 +1097,7 @@ img{
         column-gap: 5rem;
     }
     .about__img{
-        width: 350px;
+        width: 400px;
     }
     .about__description{
         text-align: initial;
@@ -1163,7 +1163,7 @@ img{
     }
 
     .home__blob{
-        width: 320px;
+        width: 380px;
     }
     .home__social{
         transform: translateX(-6rem);
