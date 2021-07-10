@@ -527,6 +527,9 @@ img{
 .skills__dotnetcore{
     width: 80%;
 }
+.skills__androidcore{
+    width: 60%;
+}
 
 
 .skills__sqlsv{
@@ -556,6 +559,9 @@ img{
 }
 .skills__mc{
     width: 72%;
+}
+.skills__MOff{
+    width: 95%;
 }
 
 .skills__close .skills__list{
